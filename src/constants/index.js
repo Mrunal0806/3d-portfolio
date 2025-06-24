@@ -2,6 +2,7 @@ import { meta, shopify, starbucks, tesla } from "../assets_3d_portfolio/assets/i
 import {
     contact,
     css,
+    estate,
     express,
     git,
     github,
@@ -52,11 +53,6 @@ export const skills = [
         name: "MongoDB",
         type: "Database",
     },
-    {
-        imageUrl: mui,
-        name: "Material-UI",
-        type: "Frontend",
-    },
     
     {
         imageUrl: nodejs,
@@ -90,12 +86,37 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
+        link: 'https://github.com/Mrunal0806',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
         link: 'https://www.linkedin.com/in/mrunal-kapse-328b1326a/',
     }
+];
+
+export const projects = [
+    {
+        iconUrl: meta,
+        theme: 'btn-back-red',
+        name: 'Legal Chatbot',
+        description: 'Developed a legal chatbot that provides information on various legal topics, including contract law, intellectual property, and more. The chatbot uses natural language processing to understand user queries and provide accurate responses.',
+        link: 'https://github.com/Mrunal0806/Legalbot',
+    },
+    {
+        iconUrl: redux,
+        theme: 'btn-back-green',
+        name: 'CryptoCurrency App',
+        description: 'Created a cryptocurrency tracking application that provides real-time data on various cryptocurrencies, including price changes and market .',
+        link: 'https://github.com/Mrunal0806/CryptoCurrency_App',
+    },
+    {
+        iconUrl: estate,
+        theme: 'btn-back-black',
+        name: 'Wandelust',
+        description: 'Developed a real-estate application that allows users to search for properties, view details, and contact agents. The application uses a modern UI and provides a seamless user experience.',
+        link: 'https://github.com/Mrunal0806/Wanderlust',
+    }
+    
 ];
 
