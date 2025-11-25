@@ -96,27 +96,44 @@ export const socialLinks = [
 ];
 
 export const projects = [
-    {
-        iconUrl: meta,
-        theme: 'btn-back-red',
-        name: 'Legal Chatbot',
-        description: 'Developed a legal chatbot that provides information on various legal topics, including contract law, intellectual property, and more. The chatbot uses natural language processing to understand user queries and provide accurate responses.',
-        link: 'https://github.com/Mrunal0806/Legalbot',
-    },
-    {
-        iconUrl: redux,
-        theme: 'btn-back-green',
-        name: 'CryptoCurrency App',
-        description: 'Created a cryptocurrency tracking application that provides real-time data on various cryptocurrencies, including price changes and market .',
-        link: 'https://github.com/Mrunal0806/CryptoCurrency_App',
-    },
-    {
-        iconUrl: estate,
-        theme: 'btn-back-black',
-        name: 'Wandelust',
-        description: 'Developed a real-estate application that allows users to search for properties, view details, and contact agents. The application uses a modern UI and provides a seamless user experience.',
-        link: 'https://github.com/Mrunal0806/Wanderlust',
-    }
-    
+  {
+    iconUrl: meta,
+    theme: "btn-back-red",
+    name: "Legal Chatbot",
+    description:
+      "Developed a legal chatbot that provides information on various legal topics, including contract law, intellectual property, and more. The chatbot uses natural language processing to understand user queries and provide accurate responses.",
+    link: "https://github.com/Mrunal0806/Legalbot",
+  },
+  {
+    iconUrl: redux,
+    theme: "btn-back-green",
+    name: "CryptoCurrency App",
+    description:
+      "Created a cryptocurrency tracking application that provides real-time data on various cryptocurrencies, including price changes and market .",
+    link: "https://github.com/Mrunal0806/CryptoCurrency_App",
+  },
+  {
+    iconUrl: estate,
+    theme: "btn-back-black",
+    name: "Wandelust",
+    description:
+      "Developed a real-estate application that allows users to search for properties, view details, and contact agents. The application uses a modern UI and provides a seamless user experience.",
+    link: "https://github.com/Mrunal0806/Wanderlust",
+  },
+  {
+    iconUrl: estate,
+    theme: "btn-back-blue",
+    name: "Stock Market Analysis",
+    description: "Developed an interactive stock market prediction web app using Streamlit, Plotly, and yFinance API. Built a multi-ticker dashboard with candlestick charts, trading volume overlays, and forecast visualizations.",
+    link: "https://github.com/Mrunal0806/Stock_market_Analysis",
+  },
+  {
+    iconUrl: estate,
+    theme: "btn-back-yellow",
+    name: "Sign Language Detection",
+    description:
+      "InBuilt a real-time application using MediaPipe and OpenCV to recognize hand gestures by tracking 21 key and more landmarks. Designed for accessibility, enabling smooth and interactive communication support for non-hearing users",
+    link: "",
+  },
 ];
 
