@@ -124,7 +124,8 @@ export const projects = [
     iconUrl: estate,
     theme: "btn-back-blue",
     name: "Stock Market Analysis",
-    description: "Developed an interactive stock market prediction web app using Streamlit, Plotly, and yFinance API. Built a multi-ticker dashboard with candlestick charts, trading volume overlays, and forecast visualizations.",
+    description:
+      "Developed an interactive stock market prediction web app using Streamlit, Plotly, and yFinance API. Built a multi-ticker dashboard with candlestick charts, trading volume overlays, and forecast visualizations.",
     link: "https://github.com/Mrunal0806/Stock_market_Analysis",
   },
   {
@@ -132,8 +133,8 @@ export const projects = [
     theme: "btn-back-yellow",
     name: "Sign Language Detection",
     description:
-      "InBuilt a real-time application using MediaPipe and OpenCV to recognize hand gestures by tracking 21 key and more landmarks. Designed for accessibility, enabling smooth and interactive communication support for non-hearing users",
-    link: "",
+      "InBuilt a real-time application using MediaPipe and OpenCV to recognize hand gestures by tracking 21 key and more landmarks. Designed for accessibility, enabling smooth and interactive communication support for non-hearing users.",
+    link: "https://github.com/Mrunal0806/Sign-Language-Detection",
   },
 ];
 
