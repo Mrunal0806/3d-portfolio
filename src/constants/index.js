@@ -138,7 +138,7 @@ export const projects = [
   },
   {
     iconUrl: estate,
-    theme: "btn-back-purple",
+    theme: "btn-back-brown",
     name: "Chatbot for Shopping Websites",
     description:
       "A smart shopping assistant chatbot that helps users browse products and get personalized suggestions on e-commerce websites.",
