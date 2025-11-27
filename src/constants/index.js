@@ -136,5 +136,13 @@ export const projects = [
       "InBuilt a real-time application using MediaPipe and OpenCV to recognize hand gestures by tracking 21 key and more landmarks. Designed for accessibility, enabling smooth and interactive communication support for non-hearing users.",
     link: "https://github.com/Mrunal0806/Sign-Language-Detection",
   },
+  {
+    iconUrl: estate,
+    theme: "btn-back-purple",
+    name: "Chatbot for Shopping Websites",
+    description:
+      "A smart shopping assistant chatbot that helps users browse products and get personalized suggestions on e-commerce websites.",
+    link: "https://github.com/Mrunal0806/Chatbot_for_Shooping_websites",
+  },
 ];
 
