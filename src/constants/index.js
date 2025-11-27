@@ -129,7 +129,7 @@ export const projects = [
     link: "https://github.com/Mrunal0806/Stock_market_Analysis",
   },
   {
-    iconUrl: estate,
+    iconUrl: github,
     theme: "btn-back-yellow",
     name: "Sign Language Detection",
     description:
@@ -137,8 +137,8 @@ export const projects = [
     link: "https://github.com/Mrunal0806/Sign-Language-Detection",
   },
   {
-    iconUrl: estate,
-    theme: "btn-back-brown",
+    iconUrl: shopify,
+    theme: "btn-back-red",
     name: "Chatbot for Shopping Websites",
     description:
       "A smart shopping assistant chatbot that helps users browse products and get personalized suggestions on e-commerce websites.",
