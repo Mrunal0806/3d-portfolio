@@ -11,8 +11,8 @@ const About = () => {
 
       <div className="mt-5 flex flex-col gap-3" style={{ fontSize: 20 }}>
         <p>
-          I am an Engineering Student in India, currently pursuing my B.Tech in
-          Electronics and Telecommunication Engineering (ENTC).
+          I am an Engineering Graduate, recently completed my B.Tech in
+          Electronics and Telecommunication Engineering (ENTC) with Data Science Honours.
         </p>
       </div>
 

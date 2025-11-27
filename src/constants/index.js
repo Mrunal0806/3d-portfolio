@@ -73,7 +73,7 @@ export const skills = [
         imageUrl: tailwindcss,
         name: "Tailwind CSS",
         type: "Frontend",
-    },
+  }
     
 ];
 

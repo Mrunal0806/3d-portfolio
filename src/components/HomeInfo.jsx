@@ -17,7 +17,7 @@ const renderContent = {
     <h1 className='sm:xl sm:leading-snug text-center neo-brutalism-blue py-4 px-8 text-white mx-5'>Hi, I am 
     <span className='font-semibold'> Mrunal ....!👋</span>
     <br/>
-    I am a Engineering Student 😊 </h1>
+    I am a Engineering Graduate 😊 </h1>
   ),
   2 :(
    <InfoBox 
